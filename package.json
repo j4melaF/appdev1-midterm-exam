@@ -1,5 +1,4 @@
 {
-  "homepage": "https://j4melaF.github.io/appdev1-midterm-exam",
   "name": "appdev1-midterm-exam",
   "private": true,
   "version": "0.0.0",
@@ -12,6 +11,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  "homepage": "https://j4melaF.github.io/appdev1-midterm-exam",
   "dependencies": {
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
